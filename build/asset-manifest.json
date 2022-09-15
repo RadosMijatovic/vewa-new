@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c87f2eb8.chunk.css",
-    "main.js": "/static/js/main.cfefbbb4.chunk.js",
-    "main.js.map": "/static/js/main.cfefbbb4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c70b96d3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c70b96d3.js.map",
-    "static/css/2.6a2d8eaa.chunk.css": "/static/css/2.6a2d8eaa.chunk.css",
-    "static/js/2.f88245ab.chunk.js": "/static/js/2.f88245ab.chunk.js",
-    "static/js/2.f88245ab.chunk.js.map": "/static/js/2.f88245ab.chunk.js.map",
-    "static/js/3.71bb4a8d.chunk.js": "/static/js/3.71bb4a8d.chunk.js",
-    "static/js/3.71bb4a8d.chunk.js.map": "/static/js/3.71bb4a8d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1371a5d330aeb95a3ca8e211e1fc37ac.js": "/precache-manifest.1371a5d330aeb95a3ca8e211e1fc37ac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.6a2d8eaa.chunk.css.map": "/static/css/2.6a2d8eaa.chunk.css.map",
-    "static/css/main.c87f2eb8.chunk.css.map": "/static/css/main.c87f2eb8.chunk.css.map",
-    "static/js/2.f88245ab.chunk.js.LICENSE.txt": "/static/js/2.f88245ab.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.dfea3bb1.png"
+    "main.css": "/ebp-nidfeld-panel/static/css/main.b59414cc.chunk.css",
+    "main.js": "/ebp-nidfeld-panel/static/js/main.2d16afeb.chunk.js",
+    "main.js.map": "/ebp-nidfeld-panel/static/js/main.2d16afeb.chunk.js.map",
+    "runtime-main.js": "/ebp-nidfeld-panel/static/js/runtime-main.f5b1ea91.js",
+    "runtime-main.js.map": "/ebp-nidfeld-panel/static/js/runtime-main.f5b1ea91.js.map",
+    "static/css/2.6a2d8eaa.chunk.css": "/ebp-nidfeld-panel/static/css/2.6a2d8eaa.chunk.css",
+    "static/js/2.0416a901.chunk.js": "/ebp-nidfeld-panel/static/js/2.0416a901.chunk.js",
+    "static/js/2.0416a901.chunk.js.map": "/ebp-nidfeld-panel/static/js/2.0416a901.chunk.js.map",
+    "static/js/3.284f1e73.chunk.js": "/ebp-nidfeld-panel/static/js/3.284f1e73.chunk.js",
+    "static/js/3.284f1e73.chunk.js.map": "/ebp-nidfeld-panel/static/js/3.284f1e73.chunk.js.map",
+    "index.html": "/ebp-nidfeld-panel/index.html",
+    "precache-manifest.55ffcd2a9541a13c38cdf6da6f2ab13c.js": "/ebp-nidfeld-panel/precache-manifest.55ffcd2a9541a13c38cdf6da6f2ab13c.js",
+    "service-worker.js": "/ebp-nidfeld-panel/service-worker.js",
+    "static/css/2.6a2d8eaa.chunk.css.map": "/ebp-nidfeld-panel/static/css/2.6a2d8eaa.chunk.css.map",
+    "static/css/main.b59414cc.chunk.css.map": "/ebp-nidfeld-panel/static/css/main.b59414cc.chunk.css.map",
+    "static/js/2.0416a901.chunk.js.LICENSE.txt": "/ebp-nidfeld-panel/static/js/2.0416a901.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/ebp-nidfeld-panel/static/media/logo.dfea3bb1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c70b96d3.js",
+    "static/js/runtime-main.f5b1ea91.js",
     "static/css/2.6a2d8eaa.chunk.css",
-    "static/js/2.f88245ab.chunk.js",
-    "static/css/main.c87f2eb8.chunk.css",
-    "static/js/main.cfefbbb4.chunk.js"
+    "static/js/2.0416a901.chunk.js",
+    "static/css/main.b59414cc.chunk.css",
+    "static/js/main.2d16afeb.chunk.js"
   ]
 }
