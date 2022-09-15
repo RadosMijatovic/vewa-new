@@ -1,0 +1,16 @@
+// Imports
+@import "colors";
+@import "core";
+@import "header";
+@import "consumption";
+@import "charts";
+
+// Base styling
+* {
+  color: $white;
+}
+.app-wrapper {
+  background-color: $base_bg_color;
+  padding: 20px;
+  min-height: 100vh
+}

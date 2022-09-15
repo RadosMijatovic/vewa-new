@@ -1,0 +1,83 @@
+.ckw-doughnut-wrapper {
+  .ckw-doughnut {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 150px;
+    max-height: 150px;
+    //margin-top: 10px;
+    //margin-bottom: 10px;
+    .ckw-doughnut-center-label {
+      position: absolute;
+      font-weight: bold;
+      margin-top: 15px;
+      text-align: center;
+      line-height: 22px;
+      span {
+        display: block;
+        font-size: 15px;
+        font-weight: normal;
+      }
+    }
+  }
+  .ckw-doughnut-list {
+    height: 160px;
+    margin-bottom: 10px;
+    .list-group-item {
+      background-color: transparent;
+      color: $white;
+      font-size: 15px;
+      font-weight: 600;
+      padding: 5px 15px;
+      border: none;
+      span {
+        display: block;
+        font-size: 14px;
+        color: $gray
+      }
+      sup {
+        color: $gray;
+      }
+      &:before {
+        content:"\A";
+        width:9px;
+        height:9px;
+        border-radius:50%;
+        background: rgb(116, 214, 229);
+        position: absolute;
+        top: 12px;
+        left: 0;
+      }
+      //todo: logic about collors will be changed
+      &.s {
+        &:before {
+          background: rgb(38, 163, 184);
+        }
+      }
+      &.t {
+        &:before {
+          background: rgb(22, 102, 119);
+        }
+      }
+    }
+  }
+  .ckw-logo {
+    img {
+      margin-top: 10px;
+      width: 100px;
+    }
+  }
+}
+
+//BAR chart
+.ckw-bar-wrapper {
+  margin-top: 15px;
+  height: 200px;
+  p {
+    font-size: 15px;
+    font-weight: 600;
+  }
+  //canvas {
+  //  margin-top: 10px;
+  //}
+}

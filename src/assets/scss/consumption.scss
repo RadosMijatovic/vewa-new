@@ -1,0 +1,19 @@
+.ckw-consumption-wrapper {
+  .ckw-consumption-tabs-wrapper {
+    font-size: 15px;
+    border-bottom: 1px solid gray;
+    .nav-item {
+      &:focus {
+        outline: none;
+      }
+    }
+      .nav-link {
+        background-color: transparent !important;
+        color: $white;
+        border: none;
+        &.active {
+          border-bottom: 3px solid $selected_tab;
+        }
+      }
+  }
+}
